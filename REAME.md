@@ -13,7 +13,7 @@ Hi 👋 I'm Ilma Vahora
 
 <h3 align="center">
 
-AI Engineer • Python Developer • Generative AI Builder • Future ML Engineer
+ • Frontend Developer • Python | Flask | React • UI/UX Designer• Future AI Engineer
 
 </h3>
 
